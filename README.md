@@ -17,6 +17,6 @@ git clone
 https://github.com/Fake-System/caping
 
 •Folder
-cd caping
+cd CAPING
 ls
 php bot.php
